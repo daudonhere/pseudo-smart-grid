@@ -12,6 +12,8 @@ This project is suitable for **educational purposes**, **small-scale smart grid 
 
 ---
 
+![Project Screenshot](./screenshoot.png)
+
 ## Hardware Requirements
 
 * ESP32 Development Board
